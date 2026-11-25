@@ -1,0 +1,29 @@
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*~
+
+# VBA / Visual Basic editor temporary files
+*.exd
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Logs
+*.log
